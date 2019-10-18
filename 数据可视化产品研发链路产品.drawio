@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-10-18T06:10:10.032Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="UhzQ5Qvr09Mm3yUgUNHp" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-18T06:11:32.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="cQzmhQQzGgoi4iZ_64wg" version="12.1.3" type="github" pages="1">
   <diagram id="rLQeQ7mJVwlARS_flByB" name="Page-1">
-    <mxGraphModel dx="1251" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1251" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -65,10 +65,10 @@
         <mxCell id="sxYwGinRjV6zQk8fRCI1-30" value="开发者门户" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#10739e;strokeWidth=1;fillColor=#b1ddf0;dashPattern=1 4;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="sxYwGinRjV6zQk8fRCI1-32" value="零售通数据可视化产品开发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontSize=20;fontColor=#7EA6E0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="456" y="440" width="265" height="80" as="geometry"/>
+        <mxCell id="sxYwGinRjV6zQk8fRCI1-32" value="零售通数据可视化产品开发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontSize=24;fontColor=#7EA6E0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="450" y="450" width="294" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="sxYwGinRjV6zQk8fRCI1-33" value="LV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontSize=32;fontColor=#7EA6E0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="sxYwGinRjV6zQk8fRCI1-33" value="LV" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;fontSize=36;fontColor=#7EA6E0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="143.5" width="100" height="58" as="geometry"/>
         </mxCell>
       </root>
