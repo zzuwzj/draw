@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T12:56:07.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="EMvX83uhx0RcCkfm9RGe" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T12:56:18.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="wMw8zW7qnBwd9UYWzEbZ" version="12.2.6" type="github" pages="1">
   <diagram id="N106i3W3YCd03xEBzc0Z" name="Page-1">
     <mxGraphModel dx="1412" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="600" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="og1X7F0gjWBo9PiOhJIb-14" value="营销&lt;br&gt;活动详情" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="800" y="490" width="120" height="60" as="geometry"/>
+          <mxGeometry x="780" y="490" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="qS_8AtRYpWkxKPDASyzW-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#97D077;strokeWidth=3;" parent="1" source="qS_8AtRYpWkxKPDASyzW-20" target="qS_8AtRYpWkxKPDASyzW-4" edge="1">
           <mxGeometry relative="1" as="geometry"/>
