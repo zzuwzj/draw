@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T05:59:41.751Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Xl4uFAsWn2fh3NMGegwH" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T06:00:03.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="Uqw4VTqMMJ0L3B4wmwdT" version="12.2.6" type="github" pages="1">
   <diagram id="8mvPLZoNpZ5Y-GIBwJK8" name="Page-1">
     <mxGraphModel dx="1412" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
         <mxCell id="Qj8eXajDFx0N2jeDMV3a-5" value="圈选模板 （商家，预置结构schema）" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="890" y="660" width="250" height="200" as="geometry"/>
         </mxCell>
-        <mxCell id="Qj8eXajDFx0N2jeDMV3a-6" value="指标模板" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Qj8eXajDFx0N2jeDMV3a-6" value="指标模板 （指标schema模板）" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="910" y="690" width="210" height="150" as="geometry"/>
         </mxCell>
         <mxCell id="Qj8eXajDFx0N2jeDMV3a-7" value="圈选数据基础组件" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
